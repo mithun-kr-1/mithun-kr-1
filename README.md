@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 -->
 
   ## 🤝‍ About Me 
-- 🎓🎓 Final year Computer Science Engineering student at <b>`Government Engineering College`</b>. 
-- 🌱🌱 Currently enhancing my skills in full-stack web development skills.
+- 🎓🎓 Final year Computer Science Engineering student at <b>`Government Engineering College Hassan`</b>. 
+- 🌱 Currently enhancing my skills in full-stack web development skills.
 - 🚀 Interested in building scalable systems, AI-driven solutions, and exploring the technologies.
 - 💻 I love turning ideas into reality through code, and I'm always exploring new tech stacks.
 - 😎 Visit my portfolio site: **[mithun_kr_portfolio/](https://mithun-kr-1.github.io/mithun_kr_portfolio/)**
