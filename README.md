@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - 🌱🌱 Currently enhancing my skills in full-stack web development skills.
 - 🚀 Interested in building scalable systems, AI-driven solutions, and exploring the technologies.
 - 💻 I love turning ideas into reality through code, and I'm always exploring new tech stacks.
-- 😎 Visit my portfolio site: **[](https://mithun-kr-1.github.io/mithun_kr_portfolio/)**
+- 😎 Visit my portfolio site: **[mithun_kr_portfolio/](https://mithun-kr-1.github.io/mithun_kr_portfolio/)**
 - 🎯 Aim: To become a well-rounded software engineer solving real-world problems through technology
 
   
