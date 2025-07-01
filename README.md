@@ -89,7 +89,7 @@ Here are some ideas to get you started:
       <!--<td align="center" width=110>C++</td>-->
     </tr>
   </table>
-  <table>
+  <!--<table>
     <thead>
       <tr>
         <th colspan="6"> Machine Learning & AI </th>
@@ -123,7 +123,7 @@ Here are some ideas to get you started:
         <td align="center" width=110>Jupyter</td>
       </tr>
     </tr>
-  </table>  
+  </table>-->  
   <table>
     <thead>
       <tr>
@@ -133,18 +133,18 @@ Here are some ideas to get you started:
     <tr>
       <td align="center" width=110> <img height=60 src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
+      <!--<td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>-->
       <tr align="center"> 
         <td align="center" width=110>React</td>
         <td align="center" width=110>Node</td>
-        <td align="center" width=110>Spring</td>
+        <!--<td align="center" width=110>Spring</td>
         <td align="center" width=110>Bootstrap</td>
-        <td align="center" width=110>JQuery</td>
+        <td align="center" width=110>JQuery</td>-->
       </tr>
     </tr>
-    <tr>
+   <!-- <tr>
       <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/> </td>
       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg"/> </td>
@@ -179,7 +179,7 @@ Here are some ideas to get you started:
       <td align="center" width=110>Jenkins</td>
       <td align="center" width=110>SonarQube</td>
     </tr>
-  </table>
+  </table>-->
   <table>
     <thead>
       <tr>
@@ -187,14 +187,14 @@ Here are some ideas to get you started:
       </tr>
     </thead>
     <tr>
-      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
+     <!-- <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
+      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>-->
       <td align="center" width=110><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
       <td align="center" width=110><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="icon" width="65" height="65"/> </td>
       <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
     <tr> 
-      <td align="center" width=110>Debian</td>
-      <td align="center" width=110>Centos</td>
+      <!--<td align="center" width=110>Debian</td>
+      <td align="center" width=110>Centos</td>-->
       <td align="center" width=110>Ubuntu</td>
       <td align="center" width=110>Script Shell</td>
       <td align="center" width=110>Windows</td>
