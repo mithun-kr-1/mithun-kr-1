@@ -190,13 +190,13 @@ Here are some ideas to get you started:
      <!-- <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
       <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>-->
       <td align="center" width=110><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="icon" width="65" height="65"/> </td>
+     <!-- <td align="center" width=110><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="icon" width="65" height="65"/> </td> -->
       <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
     <tr> 
       <!--<td align="center" width=110>Debian</td>
       <td align="center" width=110>Centos</td>-->
       <td align="center" width=110>Ubuntu</td>
-      <td align="center" width=110>Script Shell</td>
+     <!-- <td align="center" width=110>Script Shell</td>-->
       <td align="center" width=110>Windows</td>
     </tr>
   </table>
