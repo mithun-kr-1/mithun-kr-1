@@ -1,8 +1,5 @@
 # mithun_k_r
 
-
-![ahlem](https://github.com/user-attachments/assets/61fd7225-641a-4c34-b814-d33cd80850c0)
-
 <h1 align="center">
   <div id="badges">
     <a href="https://ahlem-laajili.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/>
@@ -15,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/ahlem-phantom.svg?style=for-the-badge&logo=appveyor">
   </div>
-<h3 align="center"> 😎 Full Stack Engineer | AI/ML | Python Dev | Data Science | NLP | Explorer </h3>
+<h3 align="center"> 😎 I'm a Computer Science Engineering student passionate about building efficient and user-friendly web applications. I enjoy working with modern technologies, solving real-world problems, and continuously learning new skills. </h3>
 
 <div>
 
@@ -231,11 +228,10 @@ Here are some ideas to get you started:
   https://img.shields.io/github/followers/Naereen.svg?style=for-the-badge&logo=appveyor
   -->
 
-## 📈 GitHub Analytics
- 
-
-
   
+<!--
+## 📈 GitHub Analytics
+
   <div align="center">
     <img width="360" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
 <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&theme=react&layout=compa" />
@@ -245,10 +241,13 @@ Here are some ideas to get you started:
                 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahlem-phantom&theme=react"/>
 
 </div>
+-->
 
-      
+<!--     
 ## 🏆 My GitHub Profile Trophies
 <a target="_blank" href="https://github.com/ahlem-phantom?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&theme=onestar&no-frame=true&column=6&row=1&margin-w=20&margin-h=20"  width="96%" alt="@Goblin's trophy stats"/></a>
+-->
 
-
+<!--
 ### Support me ❤️ by [starring](https://github.com/ahlem-phantom?tab=repositories) <img src="https://img.icons8.com/fluency/20/000000/star.png" /> some of my repositories ⬇️ !   
+-->
