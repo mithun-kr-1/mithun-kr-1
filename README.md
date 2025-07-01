@@ -17,16 +17,6 @@
 <div>
 
 </h1>
-<div align="center">
-    <p>
-      <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
-<img src="https://img.shields.io/badge/Hobby-Coding%2C%20Gaming-blue" />
-<img src="https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue" />
-<img src="https://img.shields.io/badge/Language-English%2C%20French-blue" />
-      <h4><i> "Turning complex ideas into innovative solutions with a touch of magic 💫" — Ahlem </i></h4>
-    </p>
-</div>
-
 
 <!--
 **ahlem-phantom/ahlem-phantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,12 +56,12 @@ Here are some ideas to get you started:
 -->
 
   ## 🤝‍ About Me 
-- 🎓 Alumnus of Computer Science Engineering from <b>`ESPRIT Higher School of Engineering`</b>  
-- 🌱 Currently solving <b>`LeetCode challenges`</b> to improve my <b>`data structures`</b> and <b>`algorithms`</b> skills.
-- 💜 Looking forward to exploring the complexities of <b>`reinforcement learning`</b> and <b>`MLOps`</b> as part of my journey in advanced AI.
-- 🔍 Recently developed an <b>`AI-powered invoice recognition system`</b> that automates data processing and extraction from invoices with diverse layouts.
-- 🎮 Coding by day 🌞, gaming and reading by night 🌙.
-- 😎 Visit my portfolio site: **[ahlem-laajili-portfolio](https://ahlem-laajili.vercel.app)**
+- 🎓🎓 Final year Computer Science Engineering student at <b>`Government Engineering College`</b>. 
+- 🌱🌱 Currently enhancing my skills in full-stack web development skills.
+- 🚀 Interested in building scalable systems, AI-driven solutions, and exploring the technologies.
+- 💻 I love turning ideas into reality through code, and I'm always exploring new tech stacks.
+- 😎 Visit my portfolio site: **[](https://mithun-kr-1.github.io/mithun_kr_portfolio/)**
+- 🎯 Aim: To become a well-rounded software engineer solving real-world problems through technology
 
   
 
